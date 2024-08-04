@@ -1,6 +1,7 @@
 # Combine
 ![Combine](https://miro.medium.com/v2/resize:fit:1200/1*BC0gFud8cmz1rKh27pKx7g.png)
-Combine was introduced as a new framework by Apple at WWDC 2019. Combine allow us to write Functional Reactive code, Which means we can process values over time, These values can represent any kinds of asynchronous events. for Example Networking, UI Events (Button pressed, text in TextField changes, etc), Notification Center, etc.
+Combine was introduced as a new framework by Apple at WWDC 2019. Combine allow us to write Functional Reactive code, Which means we can process values over time, These values can represent any kind of asynchronous events. for Example Networking, UI Events (Button pressed, text in TextField changes, etc), Notification Center, etc.
+> Combine is built of Observer Design Pattern
 
 - [WWDC 2019 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722/)
 - [WWDC 2019 - Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721/)
