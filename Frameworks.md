@@ -11,7 +11,7 @@
     2. Embd Without Sign
     3. Do Not Embd
 
-- `Defines Modules` set to `NO` means Objective-C code will be not valid in the framework and you can delete Header file.
+- `Defines Modules` set to `NO` means Objective-C code will be invalid in the framework and you can delete the Header file (which means the Framework doesn't contain any Objective-C at all).
 
 - `SKIP_INSTALL` set to `NO` to make framework copied in Archive.
 
